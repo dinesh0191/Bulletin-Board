@@ -1577,9 +1577,9 @@
     loader-utils "^2.0.0"
 
 "@testing-library/dom@^7.28.1":
-  version "7.29.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-7.29.1.tgz#a08ebeb26b2ea859b1621ff9642d114c1f04fe3a"
-  integrity sha512-6BU7vAjKuMspCy9QQEtbWgmkuXi/yOSZo3ANdvZmNQW8N/WQGjO9cvlcA5EFJaPtp2hL1RAaPGpCXxumijUxCg==
+  version "7.29.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-7.29.0.tgz#60b18065bab50a5cde21fe80275a47a43024d9cc"
+  integrity sha512-0hhuJSmw/zLc6ewR9cVm84TehuTd7tbqBX9pRNSp8znJ9gTmSgesdbiGZtt8R6dL+2rgaPFp9Yjr7IU1HWm49w==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
@@ -5117,15 +5117,10 @@ fsevents@^1.2.7:
     bindings "^1.5.0"
     nan "^2.12.1"
 
-fsevents@^2.1.2:
+fsevents@^2.1.2, fsevents@^2.1.3:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.2.1.tgz#1fb02ded2036a8ac288d507a65962bd87b97628d"
   integrity sha512-bTLYHSeC0UH/EFXS9KqWnXuOl/wHK5Z/d+ghd5AsFMYN7wIGkUCOJyzy88+wJKkZPGON8u4Z9f6U4FdgURE9qA==
-
-fsevents@^2.1.3:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.2.2.tgz#ae94eddce6e1cbc4fd0bd2d43080c5406abd5d6b"
-  integrity sha512-xJEn9cTLpaYpLA/ACD3wjQRA7unhS0b7veAzx6F8cVhi8yjwjAPzHsVibMIAWwwMVHixe6WqoFXlc36FsNM80w==
 
 fsevents@~2.1.2:
   version "2.1.3"
